@@ -1,5 +1,3 @@
-## Hi there 👋,
-
 # Hi there 👋 I'm Fabio Lima
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/fabiosoaresdelima/)
