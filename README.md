@@ -36,7 +36,7 @@
 - **CSS3**
 - **JQuery**
 - **React**
-- **Thymeleaf
+- **Thymeleaf**
 
 ### 🛢️ Databases:
 - **MySQL**
